@@ -14,6 +14,7 @@ Whereabouts is an android library which leverages Kotlin concurrency to streamli
 
 * Written in Kotlin
 * Single-line request
+* Location permission management
 * Returns optimised location
 
 ## Gradle Dependency
