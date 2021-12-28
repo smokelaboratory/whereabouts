@@ -40,7 +40,7 @@ dependencies {
 
 ## Usage
 
-See [Wiki](https://github.com/smokelaboratory/whereabouts/wiki) on how to get started with **Announcer**.
+See [Wiki](https://github.com/smokelaboratory/whereabouts/wiki) on how to get started with **Whereabouts**.
 
 ### Pull Request
 To generate a pull request, please consider following [Pull Request Template](https://github.com/smokelaboratory/whereabouts/blob/master/PULL_REQUEST_TEMPLATE.md).
